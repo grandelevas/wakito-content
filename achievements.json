@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "currency": "EUR",
+  "disclosure": {
+    "en": "Mateusz gives 50% of subscription proceeds to causes he chooses. The app does not collect donations.",
+    "pl": "Mateusz przekazuje 50% przychodu z subskrypcji na wybrane cele. Nie zbieramy darowizn w aplikacji."
+  },
+  "campaign": {
+    "id": "placeholder",
+    "title": { "en": "Replace with the campaign title", "pl": "Tu wpisz nazwę zbiórki" },
+    "who": { "en": "Replace with who this helps", "pl": "Tu wpisz, komu pomagamy" },
+    "why": {
+      "en": "Replace with why this cause was chosen. Leave raised at 0 until you record a real amount.",
+      "pl": "Tu wpisz, dlaczego wybrano ten cel. Zostaw zebraną kwotę 0, dopóki nie zapiszesz prawdziwej sumy."
+    },
+    "photoURL": "",
+    "goalAmount": 0,
+    "raisedAmount": 0,
+    "date": "2026-11-19",
+    "linkURL": ""
+  },
+  "history": []
+}
