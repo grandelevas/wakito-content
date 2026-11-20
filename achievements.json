@@ -12,15 +12,15 @@
       "en": "Let's rebuild the home of Piotrek and his Mum"
     },
     "who": {
-      "pl": "Piotrkowi i jego Mamie, którzy po pożarze stracili dom.",
-      "en": "Piotrek and his Mum, who lost their home in a fire."
+      "pl": "W pożarze stracili dom i majątek.",
+      "en": "They lost their home and belongings in a fire."
     },
     "why": {
-      "pl": "Bo w jednej chwili stracili dach nad głową, a odbudowa domu to dla nich teraz najtrudniejszy i najważniejszy krok, żeby wrócić do normalności. Chcę, żeby wiedzieli, że nie są z tym sami.",
+      "pl": "W jednej chwili stracili dach nad głową, a odbudowa domu to dla nich teraz najtrudniejszy i najważniejszy krok, żeby wrócić do normalności. Chcę, żeby wiedzieli, że nie są z tym sami.",
       "en": "In a single moment they lost the roof over their heads, and rebuilding the house is now the hardest and most important step back to normal life. I want them to know they are not alone."
     },
     "photoURL": "https://raw.githubusercontent.com/grandelevas/wakito-content/main/images/pozar-3.jpg",
-    "goalAmount": 0,
+    "goalAmount": 100000,
     "raisedAmount": 0,
     "date": "2026-11-20",
     "linkURL": "",
@@ -52,7 +52,11 @@
       }
     ],
     "updates": [],
-    "thanks": []
+    "thanks": [],
+    "goalNote": {
+      "pl": "Cel: 100 000 € – czyli 50 000 użytkowników Wakito.",
+      "en": "Goal: €100,000 – that's 50,000 Wakito users."
+    }
   },
   "history": []
 }
