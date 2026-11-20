@@ -6,18 +6,53 @@
     "pl": "Mateusz przekazuje 50% przychodu z subskrypcji na wybrane cele. Nie zbieramy darowizn w aplikacji."
   },
   "campaign": {
-    "id": "placeholder",
-    "title": { "en": "Replace with the campaign title", "pl": "Tu wpisz nazwę zbiórki" },
-    "who": { "en": "Replace with who this helps", "pl": "Tu wpisz, komu pomagamy" },
-    "why": {
-      "en": "Replace with why this cause was chosen. Leave raised at 0 until you record a real amount.",
-      "pl": "Tu wpisz, dlaczego wybrano ten cel. Zostaw zebraną kwotę 0, dopóki nie zapiszesz prawdziwej sumy."
+    "id": "dom-piotrka-2026",
+    "title": {
+      "pl": "Odbudujmy dom dla Piotrka i jego Mamy",
+      "en": "Let's rebuild the home of Piotrek and his Mum"
     },
-    "photoURL": "",
+    "who": {
+      "pl": "Piotrkowi i jego Mamie, którzy po pożarze stracili dom.",
+      "en": "Piotrek and his Mum, who lost their home in a fire."
+    },
+    "why": {
+      "pl": "Bo w jednej chwili stracili dach nad głową, a odbudowa domu to dla nich teraz najtrudniejszy i najważniejszy krok, żeby wrócić do normalności. Chcę, żeby wiedzieli, że nie są z tym sami.",
+      "en": "In a single moment they lost the roof over their heads, and rebuilding the house is now the hardest and most important step back to normal life. I want them to know they are not alone."
+    },
+    "photoURL": "https://raw.githubusercontent.com/grandelevas/wakito-content/main/images/pozar-3.jpg",
     "goalAmount": 0,
     "raisedAmount": 0,
-    "date": "2026-11-19",
-    "linkURL": ""
+    "date": "2026-11-20",
+    "linkURL": "",
+    "description": {
+      "pl": "Pożar zabrał Piotrkowi i jego Mamie dom. Nie tylko ściany i dach, ale całe ich życie, które było w środku. Meble, ubrania, dokumenty, pamiątki.\n\nZostało to, co najtrudniejsze: zacząć od nowa.\n\nDlatego ta zbiórka jest dla nich. Na odbudowę domu, krok po kroku. Na to, żeby znowu mieli swoje miejsce, swoją kuchnię, swój spokój.\n\nJak to działa tutaj: nie zbieramy darowizn w aplikacji. Ja przekazuję 50% przychodu z subskrypcji na ten cel. Czyli jeśli subskrybujesz, to realnie pomagasz im odbudować dom.\n\nDziękuję, że jesteś z nami. Każda subskrypcja to cegiełka.",
+      "en": "A fire took the home of Piotrek and his Mum. Not just the walls and the roof, but the whole life that was inside: furniture, clothes, documents, keepsakes.\n\nWhat remains is the hardest part: starting over.\n\nThat is why this campaign is for them. To rebuild the house, step by step, so they once again have their own place, their own kitchen, their own peace.\n\nHow it works here: the app does not collect donations. I give 50% of subscription proceeds to this cause. So if you subscribe, you really help them rebuild their home.\n\nThank you for being with us. Every subscription is a brick."
+    },
+    "photos": [
+      {
+        "url": "https://raw.githubusercontent.com/grandelevas/wakito-content/main/images/pozar-1.jpg",
+        "caption": {
+          "pl": "Noc pożaru",
+          "en": "The night of the fire"
+        }
+      },
+      {
+        "url": "https://raw.githubusercontent.com/grandelevas/wakito-content/main/images/pozar-2.jpg",
+        "caption": {
+          "pl": "Spalony dach",
+          "en": "The burnt roof"
+        }
+      },
+      {
+        "url": "https://raw.githubusercontent.com/grandelevas/wakito-content/main/images/pozar-3.jpg",
+        "caption": {
+          "pl": "Dom po pożarze",
+          "en": "The house after the fire"
+        }
+      }
+    ],
+    "updates": [],
+    "thanks": []
   },
   "history": []
 }
